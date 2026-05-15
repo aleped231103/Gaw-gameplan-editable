@@ -1,0 +1,9 @@
+{
+  "name": "G&W Tournament Guide",
+  "short_name": "G&W Guide",
+  "start_url": "./gw-tournament-guide.html",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "icons": []
+}
